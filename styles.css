@@ -1,0 +1,165 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    
+    width: 100%;
+    height: 500px;
+}
+
+.header { 
+    margin-top: 0px;
+    display: flex; 
+    align-items: center;
+    width : 100%;
+    height: 100px;
+    background-color: #056b3b;
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+    margin-left: 30px;
+}
+
+.nandm {
+    text-align: center;
+    color: white;
+    flex-grow: 1;
+}
+
+.name {
+    font-size: 35px; 
+    font-weight: bolder;
+}
+
+.motto {
+    font-size: 15px;
+}
+
+.title {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    
+}
+
+.services1 {
+    color: white;
+    width: 35%;
+}
+
+img .pc {
+    width: 10px;
+    height: 10px;
+}
+
+.services {
+    text-align: center;
+    color: white;
+    width: 30%;
+    font-weight: bolder;
+    background-color: #056b3b;
+    padding: 10px 10px 10px 10px;
+}
+
+#pctitle {
+    margin-top: -50px;
+    margin-right: 25px;
+    float: right;
+}
+
+.truebody {
+    margin-left: 60px;
+}
+
+.bvn {
+    float: left;
+    width: 30%;
+    color: #056b3b;
+    
+}
+
+.card {
+    float: left;
+    width: 30%;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: #056b3b;
+    
+}
+
+.exams {
+    float: left;
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #056b3b;
+}
+
+.subtitles {
+    background-color: #056b3b;
+    margin-bottom: 10px;
+    margin-left: -20px;
+    width: 100px;
+    text-align: center;
+    color: white;
+}
+
+.otherbody {
+    display: block;
+}
+
+.others {
+    display: block;
+    background-color: #056b3b;
+    width: 60%;
+    height: 30px;
+    margin-top: 200px;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 7px;
+    color: white;
+}
+
+.barscan {
+    display: block;
+}
+
+.barcode {
+    margin-left: 30px;
+}
+
+.scanme {
+    background-color: #056b3b;
+    color: white;
+    width: 100px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.otherlist {
+    display: flex;
+    float: left;
+    color: #056b3b;
+    margin-left: 160px;
+    margin-top: -100px;
+}
+
+.footer {
+    background-color: #056b3b;
+    width: 100%;
+    padding: 5px;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    position: relative;
+}
